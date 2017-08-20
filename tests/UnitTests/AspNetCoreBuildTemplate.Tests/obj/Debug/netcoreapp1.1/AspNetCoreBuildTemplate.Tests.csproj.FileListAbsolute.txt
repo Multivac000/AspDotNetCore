@@ -1,0 +1,12 @@
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.deps.json
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.runtimeconfig.json
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.runtimeconfig.dev.json
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.dll
+C:\WS\my-awesome-project\artifacts\AspNetCoreBuildTemplate.Tests\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.pdb
+C:\WS\my-awesome-project\tests\UnitTests\AspNetCoreBuildTemplate.Tests\obj\Debug\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.csprojResolveAssemblyReference.cache
+C:\WS\my-awesome-project\tests\UnitTests\AspNetCoreBuildTemplate.Tests\obj\Debug\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.AssemblyInfo.cs
+C:\WS\my-awesome-project\tests\UnitTests\AspNetCoreBuildTemplate.Tests\obj\Debug\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.dll
+C:\WS\my-awesome-project\tests\UnitTests\AspNetCoreBuildTemplate.Tests\obj\Debug\netcoreapp1.1\AspNetCoreBuildTemplate.Tests.pdb
